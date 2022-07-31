@@ -1,0 +1,13 @@
+package haka.qiva;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class Tool {
+
+    public static void main(String[] args) {
+        SpringApplication.run(Tool.class, args);
+    }
+
+}
